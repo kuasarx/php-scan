@@ -1,0 +1,27 @@
+{
+    "name": "kuasarx/php-scan",
+    "description": "PHP class for interacting with NAPS2 (Not Another PDF Scanner 2) console functionality",
+    "version": "1.0.0",
+    "keywords": [
+        "naps2",
+        "scanner",
+        "pdf",
+        "php",
+        "wrapper"
+    ],
+    "homepage": "https://github.com/kuasarx/php-scan",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan Camacho",
+            "email": "kuasarx@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PhpScan\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
