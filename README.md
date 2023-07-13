@@ -78,7 +78,7 @@ $naps2->setSlice('1-3');
 $naps2->setPdfTitle('My Document');
 $naps2->setPdfAuthor('John Doe');
 $naps2->setPdfSubject('Subject');
-$naps2->setPdfKeywords('keyword1;keyword2');
+$naps2->setPdfKeywords('keyword1, keyword2');
 $naps2->setPdfCompatibility('1.5');
 
 // Set JPEG quality for image conversion
