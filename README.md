@@ -5,6 +5,35 @@
 php-scan is a PHP class that provides a convenient wrapper for interacting with [NAPS2](https://www.naps2.com/) (Not Another PDF Scanner 2) console functionality.
 - Aditional info: [Command line usage](https://www.naps2.com/doc/command-line)
 
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Requirements](#requirements)
+
+## Features
+
+- Simplified PHP wrapper for NAPS2 console functionality.
+- Set output file path and format for scanned documents.
+- Specify email options to send scans as attachments.
+- Import one or more PDF/image files to include in the output.
+- Combine multiple files together into a single output file.
+- Convert files between different formats.
+- Set recipient(s), subject, and body for email sending.
+- Enable or disable OCR (Optical Character Recognition) for PDF generation.
+- Set scanning profile and verbosity level.
+- Control the number of scans to perform and the delay between each scan.
+- Force overwrite of existing files.
+- Slice and select specific pages to scan.
+- Set PDF metadata options such as title, author, subject, and keywords.
+- Adjust JPEG quality for image conversion.
+- Specify TIFF compression options.
+- Control interleave and deinterleave options for scanning.
+- Reverse the order of pages in the output.
+- Set placeholders for missing metadata.
+- Compatible with PHP 5.6 or above and NAPS2 installation.
+
 ## Installation
 
 Install the package using [Composer](https://getcomposer.org/):
