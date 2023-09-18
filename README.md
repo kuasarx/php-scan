@@ -9,15 +9,19 @@ Aditional info: [Command line usage](https://www.naps2.com/doc/command-line)
 ## [PHP Classes Innovation award Nominee for August 2023](https://www.phpclasses.org/package/12947-PHP-Scan-and-process-scanned-documents-with-NAPS2-.html)
 <p align="center">
 
- <img width="100px" src="image.png" />  
+ <img width="100px" src="image.png" />
 
 </p>
+
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Requirements](#requirements)
+- [php-scan](#php-scan)
+  - [PHP Classes Innovation award Nominee for August 2023](#php-classes-innovation-award-nominee-for-august-2023)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Requirements](#requirements)
 
 ## Features
 
@@ -146,5 +150,3 @@ $output = $naps2->scan();
 ## Requirements
 - PHP 5.6 or above
 - NAPS2 installed and configured
-
-  
