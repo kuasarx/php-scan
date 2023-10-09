@@ -1,17 +1,19 @@
 # php-scan
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kuasarx/php-scan/blob/main/LICENSE)
 
 php-scan is a PHP class that provides a convenient wrapper for interacting with [NAPS2](https://www.naps2.com/) (Not Another PDF Scanner 2) console functionality.
 
 Aditional info: [Command line usage](https://www.naps2.com/doc/command-line)
 
-## [PHP Classes Innovation award Nominee for August 2023](https://www.phpclasses.org/package/12947-PHP-Scan-and-process-scanned-documents-with-NAPS2-.html)
+  
+## [PHP Classes Innovation award Winner August 2023](https://www.phpclasses.org/browse/author/1482245.html)
 <p align="center">
 
- <img width="100px" src="image.png" />  
+ <img width="200px" src="https://github.com/kuasarx/php-scan/assets/34275535/866802dd-1ac6-4f98-9d31-e907b3df6e8c" />  
 
 </p>
+
+
 ## Table of Contents
 
 - [Features](#features)
